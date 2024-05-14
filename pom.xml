@@ -7,11 +7,20 @@
   <name>Archetype - msd23_shikhahmad_mostafa</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+
+    <dependency>
+      <groupId>org.codehaus.mojo</groupId>
+      <artifactId>exec-maven-plugin</artifactId>
+      <version>3.0.0</version>
+    </dependency>
+
     <dependency>
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-compiler-plugin</artifactId>
       <version>3.11.0</version>
     </dependency>
+
+
   </dependencies>
 
   <build>
@@ -24,8 +33,17 @@
           <release>21</release>
         </configuration>
       </plugin>
+          <plugin>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>exec-maven-plugin</artifactId>
+            <version>3.0.0</version>
+            <configuration>
+              <mainClass>at.fhj.msd.Main</mainClass>
+            </configuration>
+          </plugin>
     </plugins>
   </build>
+
 
 </project>
 
