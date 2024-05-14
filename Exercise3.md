@@ -15,3 +15,7 @@ class.
 
 ### A Screenshot of a successful build:
 ![Screenshot](./resources/ex3_2.png)
+
+
+### A Screenshot of a mvn exec:java
+![Screenshot](./resources/ex3_3.png)
