@@ -43,4 +43,18 @@ public class CalculatorTest {
         assertEquals(-4, calculator.multiply(-2, 2), "-2 * 2 should equal -4");
         assertEquals(6, calculator.multiply(-3, -2), "-3 * -2 should equal 6");
     }
+
+
+    @Test
+    public void testFactorial() {
+        assertEquals(1, calculator.factorial(0), "0! should equal 1");
+
+        assertEquals(1, calculator.factorial(1), "1! should equal 1");
+
+        assertEquals(120, calculator.factorial(5), "5! should equal 120");
+
+        assertEquals(0, calculator.factorial(-5), "-5! should equal 0");
+    }
+
+
 }
