@@ -2,7 +2,7 @@
 
 ## Getestete Methoden und Testfälle
 
-### 1. `add(double number1, double number2)`
+### 1. add(double number1, double number2)
 
 #### Testfälle:
 - **Addition von positiven Zahlen**:
@@ -17,7 +17,7 @@
   - Eingabe: `4`, `2`
   - Erwartetes Ergebnis: `2`
 
-### 2. `minus(double number1, double number2)`
+### 2. minus(double number1, double number2)
 
 #### Testfälle:
 - **Subtraktion von positiven Zahlen**:
@@ -51,7 +51,7 @@
   - Eingabe: `1`, `0`
   - Erwartete Ausnahme: `ArithmeticException` mit der Nachricht "Cannot divide by zero"
 
-### 4. `multiply(double number1, double number2)`
+### 4. multiply(double number1, double number2)
 
 #### Testfälle:
 - **Multiplikation von positiven Zahlen**:
