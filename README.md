@@ -4,6 +4,8 @@
 - **Exercise 2:** Diese Datei beinhaltet die wichtigsten Git-Befehle und eine kurze Beschreibung dafür[Exercise2](./Exercise2.md)
 - **Exercise 3:** MAVEN [Exercise3](./Exercise3.md)
 
+- **Exercise 4:** JUnit Tests [Exercise4](./Exercise4.md)
+
 ## Autoren
 
 - [Mostafa Shikh Ahmad](https://github.com/MostafaSchick2001) - [FH-Joanneum](https://www.fh-joanneum.at/)
