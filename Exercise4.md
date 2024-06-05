@@ -14,8 +14,8 @@
   - Erwartetes Ergebnis: `0`
 
 - **Addition von zwei negativen Zahlen**:
-  - Eingabe: `-3`, `-2`
-  - Erwartetes Ergebnis: `-5`
+  - Eingabe: `4`, `2`
+  - Erwartetes Ergebnis: `2`
 
 ### 2. `minus(double number1, double number2)`
 
