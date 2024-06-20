@@ -42,3 +42,5 @@ build/
 *.pdf
 
 *.html
+
+*.log
