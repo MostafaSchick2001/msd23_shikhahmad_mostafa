@@ -5,6 +5,7 @@
 - **Exercise 3:** MAVEN [Exercise3](./Exercise3.md)
 
 - **Exercise 4:** JUnit Tests [Exercise4](./Exercise4.md)
+- **Exercise 5:** Log-Bibliothek [Exercise5](./exercise5.md)
 
 ## Autoren
 
