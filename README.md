@@ -6,6 +6,7 @@
 
 - **Exercise 4:** JUnit Tests [Exercise4](./exercise4.md)
 - **Exercise 5:** Log-Bibliothek [Exercise5](./exercise5.md)
+- **Exercise 6:** JavaDoc [Exercise6](./exercise6.md)
 
 ## Autoren
 
